@@ -1,7 +1,7 @@
 //this is where all the api function calls defined
 
-import { commonAPI } from "./CommonAPI";
-import { ServerURL } from "./ServerURL";
+import { commonAPI } from "./CommonAPI.js";
+import { ServerURL } from "./ServerURL.js";
 
 // adding workouts to json server
 
